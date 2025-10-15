@@ -1,1 +1,1 @@
-web: gunicorn eld_trucks.wsgi
+gunicorn eld_trucks.wsgi
